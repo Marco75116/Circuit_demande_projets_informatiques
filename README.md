@@ -16,7 +16,8 @@ Cette expérience est formatrice car travaillant seul sur ce projet (sous l'oeil
 Ce que j'ai effectué :
 - réunion client, récolte besoins et attentes, compte rendu
 - Elaboration de fiche SPECIFICATIONS
-- UI,UX conception croquis de l'interface et des fonctionnalités puis développement
+- UI,UX conception croquis de l'interface et des fonctionnalités
 - Elaboration du schéma de la BDD 
 - REST API
+- Développement d'une application
 
