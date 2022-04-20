@@ -2,7 +2,7 @@
 
 ## PROJECT EN COURS DE REALISATION
 
-Les technos que j'emploie pour ce projets sont Angular,J2E,Mysql,Postman,Jira
+Les technos que j'emploie pour ce projets sont Angular,J2E,SQLserveur,Postman,Jira
 
 Ce repository est un projet au sein de mon entreprise PREPAR-VIE à la Defense dans laquelle j'effectue mon alternance au sein de déparetment DMAI.
 Ce projet consiste à mettre en place un workflow pour la bonne gestion et la traçabilité des demandes de projets et pour les mises en productions.
